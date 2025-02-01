@@ -41,3 +41,22 @@ The main JavaScript code for the calendar application is located in `cal.js`. Be
 1. Clone the repository:
    ```bash
    git clone https://github.com/BOJJASANJANA/calender.git
+2. Navigate to the project folder:
+    cd calender
+How it works
+The calendar is generated dynamically based on the current date and allows navigation through months.
+Users can click on a day to open a modal where they can add an event (title, description, and time).
+Events are stored in memory and shown on the respective dates.
+## Technologies Used
+HTML5
+CSS3
+JavaScript
+## File Structure
+calender/
+│
+├── index.html          # The main HTML file
+├── cal.css             # The styles for the calendar
+├── cal.js              # The JavaScript for calendar functionality
+└── README.md           # The README file you're reading now
+## License
+This project is open-source and available under the MIT License.
