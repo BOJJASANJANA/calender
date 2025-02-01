@@ -51,12 +51,8 @@ Events are stored in memory and shown on the respective dates.
 HTML5
 CSS3
 JavaScript
-## File Structure
-calender/
-│
-├── index.html          # The main HTML file
-├── cal.css             # The styles for the calendar
-├── cal.js              # The JavaScript for calendar functionality
-└── README.md           # The README file you're reading now
 ## License
 This project is open-source and available under the MIT License.
+
+
+
